@@ -1,7 +1,12 @@
 # 显示两种时间格式
-*  格式一： 格式为 YYYY 年 MM 月 DD 日 星期 D HH:mm:ss （2008年10月10日星期一的12点12分12秒，显示2008年10月10日星期一 12:12:12）
-*  格式二： 输出格式变为：2008-10-10 Monday 07:10:30 PM  
+>  格式一： 格式为 YYYY 年 MM 月 DD 日 星期 D HH:mm:ss （2008年10月10日星期一的12点12分12秒，显示2008年10月10日星期一 12:12:12）
 
+  >> ![Img](https://github.com/wangshuo1991/003clock/blob/master/cloock_cn.png)
+  
+>  格式二： 输出格式变为：2008-10-10 Monday 07:10:30 PM  
+
+  >> ![Img](https://github.com/wangshuo1991/003clock/blob/master/clock_en.png)
+  
 > 首先，获取客户端时间 
 ```javascript
   // 获取当前时间 -> 这里是客户端时间
